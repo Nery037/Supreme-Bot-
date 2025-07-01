@@ -1,2 +1,0 @@
-# Supreme-Bot-
-Deriv Bot 
