@@ -4,7 +4,7 @@ import time
 
 # ✅ CONFIGURAÇÕES DO BOT
 modo = "DEMO"  # ou "REAL"
-api_token_demo = "UKoPGTDMuHHLB8Y"  # 👉 ALTERE APENAS AQUI COM SEU TOKEN DA DERIV
+api_token_demo = "UKoPGTDMuHHLB8Y"
 api_token_real = "AQUI_VAI_SEU_TOKEN_REAL"
 
 ativo = "R_75"  # Ativo de índice sintético
