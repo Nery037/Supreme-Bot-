@@ -4,7 +4,7 @@ import time
 
 # ✅ CONFIGURAÇÕES DO BOT
 modo = "DEMO"  # ou "REAL"
-api_token_demo = "tacBIc4mCQxgL97" 
+api_token_demo = "qx58ieIBlB80uio" 
 api_token_real = "AQUI_VAI_SEU_TOKEN_REAL"
 ativo = "R_75"  # Ativo de índice sintético
 api_token = api_token_demo if modo == "DEMO" else api_token_real
