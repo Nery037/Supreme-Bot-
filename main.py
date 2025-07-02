@@ -4,7 +4,7 @@ import time
 
 # ✅ CONFIGURAÇÕES DO BOT
 modo = "DEMO"  # ou "REAL"
-api_token_demo = "i5NmwyiXwVj9kir" 
+api_token_demo = "tacBIc4mCQxgL97" 
 api_token_real = "AQUI_VAI_SEU_TOKEN_REAL"
 ativo = "R_75"  # Ativo de índice sintético
 api_token = api_token_demo if modo == "DEMO" else api_token_real
@@ -106,7 +106,7 @@ def validador_de_entrada(velas):
 
 # ✅ INICIAR CONEXÃO
 def iniciar_conexao():
-    socket = "wss://ws.derivws.com/websockets/v3?id=83062"
+    socket = "wss://ws.derivws.com/websockets/v3?id=83073"
     ws = WebSocketApp(
         socket,
         on_open=ao_abrir,
