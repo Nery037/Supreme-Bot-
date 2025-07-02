@@ -106,7 +106,7 @@ def validador_de_entrada(velas):
 
 # ✅ INICIAR CONEXÃO
 def iniciar_conexao():
-    socket = "wss://ws.derivws.com/websockets/v3?id=83073"
+    socket = "wss://ws.derivws.com/websockets/v3?app_id=83073"
     ws = WebSocketApp(
         socket,
         on_open=ao_abrir,
